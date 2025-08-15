@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
+![logo](https://github.com/ZEN8SU/ZEN8SU/blob/main/github_profile_banner.png)
+
 <h3 align="center">B.tech Student | Full Stack & Java Developer | Future Software Consultant and Developer in IT Services</h3>
 <img align ="right" alt = "codingggg" width ="400" src ="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zen8su&label=Profile%20views&color=0e75b6&style=flat" alt="zen8su" /> </p>
