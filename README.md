@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yashraajsrivastava@gmail.com**
 
-- ⚡ Fun fact **I think am good in creative things**
+- ⚡ Fun fact **I think I'm good at creative things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
