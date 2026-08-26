@@ -1,5 +1,5 @@
 #  About Me:
-I am Yash Srivastava <br>Backend developer and a University Student <br>Backend & Core Languages : C++ , Java , JavaScript ,TypeScipt, Node.js<br>Frameworks : Express.js<br>Databases :  MongoDB , PostgreySQL , MySQL<br> Extra skills : Docker , Git/Github
+I am Yash Srivastava <br>Backend developer and a University Student <br>Backend & Core Languages : C++ , Java , JavaScript ,TypeScript, Node.js<br>Frameworks : Express.js<br>Databases :  MongoDB , PostgreySQL , MySQL<br> Extra skills : Docker , Git/Github
 
 
 ## 🌐 Socials:
